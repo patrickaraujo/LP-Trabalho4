@@ -1,0 +1,31 @@
++----+-----+-----+
+| UF | De  | Ate |
++----+-----+-----+
+| AC | MZN | NAG |
+| AL | MUA | MVK |
+| AM | JWF | JXY |
+| AP | NEI | NFB |
+| BA | JKS | JSZ |
+| CE | HTX | HZA |
+| DF | JDP | JKR |
+| ES | MOX | MTZ |
+| GO | KAV | KFC |
+| MA | HOL | HQE |
+| MG | GKJ | HOK |
+| MS | HQF | HTW |
+| MT | JXZ | KAU |
+| PA | JTA | JWE |
+| PB | MMN | MOW |
+| PE | KFD | KME |
+| PI | LVF | LWQ |
+| PR | AAA | BEZ |
+| RJ | KMF | LVE |
+| RN | MXH | MZM |
+| RO | NBB | NEH |
+| RR | NAH | NBA |
+| RS | IAQ | JDO |
+| SC | LWR | MMM |
+| SE | HZB | IAP |
+| SP | BFA | GKI |
+| TO | MVL | MXG |
++----+-----+-----+
